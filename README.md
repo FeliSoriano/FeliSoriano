@@ -1,6 +1,4 @@
 - 👋: Hi, I’m @FeliSoriano
-- 👀 I’m interested in coding, crypto, reading and pretty much anything
-- 🌱 I’m currently learning JavaScript, altohugh I'm also working on a Python project
 - 📫 You can reach me at my email felysoryano@gmail.com or on twitter @FeliSorianoE
 
 <!---
