@@ -1,5 +1,5 @@
 - 👋: Hi, I’m @FeliSoriano
-- 📫 You can reach me at my email felysoryano@gmail.com or on twitter @FeliSorianoE
+- 📫 You can reach me at my email felysoryano@gmail.com 
 
 <!---
 FeliSoriano/FeliSoriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
